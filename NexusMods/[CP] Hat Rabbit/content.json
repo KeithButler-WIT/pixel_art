@@ -1,0 +1,11 @@
+{
+  "Format": "1.9",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Animals/Rabbit",
+      "FromFile": "assets/Rabbit.png",
+    },
+  ]
+}
+
